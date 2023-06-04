@@ -1,6 +1,6 @@
 ### :man_technologist: About Me :
 
-I am a Machine Learning Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
+I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
 
 - :telescope: I’m working as a Machine Learning Researcher at Fraunhofer
 
