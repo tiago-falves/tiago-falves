@@ -8,6 +8,8 @@ I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcM
 
 - :zap: Remote and Asynchronous work
 
+- :satellite: [Personal Website](https://tiago-falves.github.io/)
+
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tiago_Alves-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tiagoalves123/)
 
 ---
