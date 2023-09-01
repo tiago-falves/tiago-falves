@@ -1,8 +1,8 @@
 ### :man_technologist: About Me :
 
-I am a Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
+I am a Full-Stack/Machine Learning Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
 
-- :telescope: I’m working as a Machine Learning Researcher at Fraunhofer
+- :telescope: I’m working as a Full-Stack and Machine Learning Engineer at GoGoGuest, a San Francisco Startup.
 
 - :seedling: Thesis on "Cervical Cytology Image Generation with Latent Diffusion Models"
 
